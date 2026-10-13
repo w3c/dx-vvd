@@ -7,3 +7,6 @@ This repository contains the *Variable Description Vocabulary* (VVD) work of the
 - [Charter](https://www.w3.org/2026/04/dx-wg-charter.html)
     - provides the scope of the Working Group, including for this deliverable
 
+- [Background materials](Background.md)
+  - links to resources
+  
